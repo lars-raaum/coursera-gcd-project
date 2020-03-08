@@ -3,7 +3,7 @@ Readme.md
 Clean up and summarization for smart phone sensor data. 
 
 This repo contains: 
-- The dataset tidydata.txt
+- The dataset output.txt
 - Data is documented in codebook.md
 - A script named run_analysis.R that transforms the original data into tidydata.txt 
 - The details of the cleaning operations carried out in the script is documented in this readme.md (It was unclear to me where to put details - in codebook or readme, I have opted for a high-level description in codebook and a detailed description in the readme)
