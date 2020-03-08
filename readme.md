@@ -1,6 +1,6 @@
 Readme.md
 # Coursera JHS - Getting and Cleaning Data Course Project - week 4
-Clean up and summarization for data 
+Clean up and summarization for smart phone sensor data. 
 
 This repo contains: 
 - The dataset tidydata.txt
